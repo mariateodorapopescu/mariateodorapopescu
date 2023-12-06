@@ -4,7 +4,7 @@
 - 📫 How to reach me: Find me on instagram, @marriaa.teodora --->
 
 # 💫 About Me:
-👋 Hi, I’m @mariateodorapopescu<br>👀 I’m interested in web design, frontend, UI/UX design.<br>I know Java, C, C++, NASM x86, bash scripting, HTML, CSS, JavaScript<br>📫 How to reach me: Find me on instagram, @marriaa.teodora
+👋 Hi, I’m @mariateodorapopescu<br>👀 I’m interested in web design, frontend, UI/UX design.<br>🫡 I know Java, C, C++, NASM x86, bash scripting, HTML, CSS, JavaScript<br>📫 How to reach me: Find me on instagram, @marriaa.teodora
 
 
 ## 🌐 Socials:
