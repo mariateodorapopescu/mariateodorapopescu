@@ -1,6 +1,6 @@
 <!--- - 👋 Hi, I’m @mariateodorapopescu
 - 👀 I’m interested in web design, frontend, UI/UX design.
-- I know Java, C, C++, NASM x86, bash scripting, HTML, CSS, JavaScript
+- 🫡 I know Java, C, C++, NASM x86, bash scripting, HTML, CSS, JavaScript
 - 📫 How to reach me: Find me on instagram, @marriaa.teodora --->
 
 # 💫 About Me:
