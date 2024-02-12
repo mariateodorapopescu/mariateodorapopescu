@@ -1,10 +1,10 @@
 <!--- - 👋 Hi, I’m @mariateodorapopescu
-- 👀 I’m interested in web design, frontend, UI/UX design.
-- 🫡 I know Java, C, C++, NASM x86, bash scripting, HTML, CSS, JavaScript
+- 👀 I’m interested in any kind of tech that involves writing code!
+- 🫡 I know Java, C, C++, HTML, CSS, JavaScript (you may see more below)
 - 📫 How to reach me: Find me on instagram, @marriaa.teodora --->
 
 # 💫 About Me:
-👋 Hi, I’m @mariateodorapopescu<br>👀 I’m interested in web design, frontend, UI/UX design.<br>🫡 I know Java, C, C++, NASM x86, bash scripting, HTML, CSS, JavaScript<br>📫 How to reach me: Find me on instagram, @marriaa.teodora
+My name is Maria and I’m interested in any kind of tech that involves writing code!<br>🫡 I know Java, C, C++, HTML, CSS, JavaScript<br>📫 How to reach me: popescumariateodora@yahoo.com
 
 
 ## 🌐 Socials:
