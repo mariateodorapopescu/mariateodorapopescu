@@ -4,7 +4,7 @@
 - 📫 How to reach me: Find me on instagram, @marriaa.teodora --->
 
 # 💫 About Me:
-My name is Maria and I’m interested in any kind of tech that involves writing code!<br>🫡 I know Java, C, C++, HTML, CSS, JavaScript<br>📫 How to reach me: popescumariateodora@yahoo.com
+My name is Maria and I’m interested in any kind of tech that involves writing code!<br> I know Java, C, C++, HTML, CSS, JavaScript<br>You can reach me at: popescumariateodora@yahoo.com
 
 
 ## 🌐 Socials:
