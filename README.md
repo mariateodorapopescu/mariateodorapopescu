@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariateodorapopescu" alt="mariateodorapopescu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamelsapop" target="blank"><img src="https://img.shields.io/twitter/follow/iamelsapop?logo=twitter&style=for-the-badge" alt="iamelsapop" /></a> </p>
-
 - 🔭 I’m currently working on **my Bachelors Degree final project**
 
 - 🌱 I’m currently learning **Python**
