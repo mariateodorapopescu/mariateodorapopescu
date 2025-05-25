@@ -1,89 +1,137 @@
 <div align="center">
 
-# Hi there! 👋 I'm Maria-Teodora 
+# ✨ Welcome to Maria-Teodora's Digital Universe! ✨
+### 🌸 *Kawaii Coder & Future Tech Sensei* 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Python+Learner+%F0%9F%90%8D;Future+Data+Scientist+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixel+Emulator&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Level+Up+Your+Code+Game!+%F0%9F%8E%AE;%F0%9F%8C%B8+CS+Student+%26+Future+Professor+%F0%9F%8C%B8;%F0%9F%92%96+Python+%7C+Frontend+%7C+Data+Science+%F0%9F%92%96;%F0%9F%93%9A+Teaching+%7C+Learning+%7C+Growing+%F0%9F%93%9A;%E2%9C%A8+Making+Tech+Magical!+%E2%9C%A8" alt="Kawaii Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 
-### 💫 *"Passionate about creating beautiful code and meaningful experiences"* 💫
+### 💕 *"Coding dreams into reality, one pixel at a time!"* 💕
 
 </div>
 
 ---
 
-## 🌟 About Me
-
-```python
-class MariaTeodora:
-    def __init__(self):
-        self.name = "Maria-Teodora Popescu"
-        self.location = "Bucharest, Romania 🇷🇴"
-        self.education = "Computer Science @ POLITEHNICA Bucharest"
-        self.current_focus = ["Bachelor's Final Project", "Python Mastery", "Data Science Journey"]
-        self.interests = ["Frontend Development", "UI/UX Design", "Web Technologies"]
-        self.fun_fact = "I'm both a workaholic and a great procrastinator! 😅"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
-
-me = MariaTeodora()
-me.say_hi()
-```
-
 <div align="center">
 
-## 🎯 Current Adventures
+## 🎮 Player Stats & Profile 🎮
+
+```python
+class KawaiiCoder:
+    def __init__(self):
+        self.username = "Maria-Teodora ✨"
+        self.class_type = ["💻 Frontend Mage", "🐍 Python Witch", "📊 Data Scientist", "👩‍🏫 Future Tech Sensei"]
+        self.location = "🏰 Bucharest Castle, Romania"
+        self.current_quest = {
+            "🎓 Main Quest": "Bachelor's Final Boss Battle",
+            "🌟 Side Quests": ["Python Mastery", "Teaching Skills++", "Data Science Journey"],
+            "💖 Dream Job": "Professor & Tech Trainer Combo!"
+        }
+        self.special_abilities = ["✨ Code Magic", "🎨 UI/UX Spells", "📚 Knowledge Sharing"]
+        self.personality = "Workaholic + Procrastinator = Chaotic Good 😅"
+    
+    def level_up_announcement(self):
+        return "🌟 Ready to teach, learn, and code the future! 🌟"
+
+player = KawaiiCoder()
+print(player.level_up_announcement())
+```
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+---
 
-### 🔭 What I'm Working On
-- 🎓 **Bachelor's Degree Final Project**
-- 🐍 **Mastering Python Programming**
-- 🌐 **Building Cool Web Applications**
-- 📊 **Exploring Data Science**
+<div align="center">
+
+## 🌈 Current Adventures & Quests 🌈
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 Academic Quests
+```
+🎓 Bachelor's Final Project
+   ████████░░ 80%
+
+📚 Teaching Prep
+   ███████░░░ 70%
+
+👩‍🏫 Trainer Skills
+   ██████░░░░ 60%
+
+🏫 Future Professor Path
+   ████░░░░░░ 40%
+```
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🌱 What I'm Learning
-- 🔥 **Advanced Python Concepts**
-- 📈 **Data Analysis & Visualization**
-- 🤖 **Machine Learning Fundamentals**
-- 🎨 **Modern UI/UX Principles**
+### 💻 Coding Quests
+```
+🐍 Python Mastery
+   ████████░░ 80%
+
+🌐 Frontend Magic
+   ███████░░░ 70%
+
+📊 Data Science
+   ██████░░░░ 60%
+
+🤖 ML Adventures
+   ████░░░░░░ 40%
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 Dream Quests
+```
+✨ Inspire Students
+   ███████░░░ 70%
+
+🎮 Gamify Learning
+   ██████░░░░ 60%
+
+📖 Write Tech Content
+   █████░░░░░ 50%
+
+🌍 Global Impact
+   ███░░░░░░░ 30%
+```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## 🎨 Magical Tech Arsenal 🎨
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌸 Programming Spells 🌸
+![Python](https://img.shields.io/badge/🐍_Python-FF1493?style=for-the-badge&logo=python&logoColor=white&labelColor=FF69B4)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF1493)
+![Java](https://img.shields.io/badge/☕_Java-FF69B4?style=for-the-badge&logo=java&logoColor=white&labelColor=C71585)
+![C](https://img.shields.io/badge/🔮_C_Language-DDA0DD?style=for-the-badge&logo=c&logoColor=white&labelColor=9370DB)
+![HTML5](https://img.shields.io/badge/🌸_HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF1493)
+![CSS3](https://img.shields.io/badge/✨_CSS3-DDA0DD?style=for-the-badge&logo=css3&logoColor=white&labelColor=9370DB)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🎮 Gaming Tools & Databases 🎮
+![MySQL](https://img.shields.io/badge/🗄️_MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=C71585)
+![Oracle](https://img.shields.io/badge/🏛️_Oracle-FFB6C1?style=for-the-badge&logo=oracle&logoColor=black&labelColor=FF1493)
+![Git](https://img.shields.io/badge/🌟_Git-DDA0DD?style=for-the-badge&logo=git&logoColor=white&labelColor=9370DB)
+![Linux](https://img.shields.io/badge/🐧_Linux-FF1493?style=for-the-badge&logo=linux&logoColor=white&labelColor=C71585)
+![Postman](https://img.shields.io/badge/📮_Postman-FFB6C1?style=for-the-badge&logo=postman&logoColor=black&labelColor=FF69B4)
 
-### Design & Others
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+### 🎨 Creative & Teaching Potions 🎨
+![Photoshop](https://img.shields.io/badge/🎨_Photoshop-FF69B4?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=C71585)
+![Matlab](https://img.shields.io/badge/📊_MATLAB-DDA0DD?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=9370DB)
+![Presentation](https://img.shields.io/badge/👩‍🏫_Teaching_Skills-FF1493?style=for-the-badge&logo=academia&logoColor=white&labelColor=C71585)
 
 </div>
 
@@ -91,14 +139,14 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 Kawaii GitHub Analytics 📊
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariateodorapopescu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariateodorapopescu&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariateodorapopescu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariateodorapopescu&layout=compact&langs_count=8&theme=synthwave&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariateodorapopescu&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariateodorapopescu&theme=synthwave&background=0d1117&stroke=ff69b4&ring=ff1493&fire=ffb6c1&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=ff69b4&sideLabels=ff1493&dates=ffb6c1" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariateodorapopescu&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariateodorapopescu&theme=synthwave&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ff1493&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -106,24 +154,35 @@ me.say_hi()
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Gallery 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=mariateodorapopescu&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mariateodorapopescu&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
 
 </div>
 
 ---
 
-## 🎨 What I Love Doing
+## 🌸 What Makes My Heart Skip a Beat 🌸
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Kawaii Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 💻 **Frontend Development** - Creating beautiful, responsive web interfaces
-- 🎨 **UI/UX Design** - Crafting user-centered design experiences  
-- 🐍 **Python Programming** - Building efficient and clean code solutions
-- 📊 **Data Visualization** - Turning data into compelling stories
-- 🌐 **Web Technologies** - Exploring the latest in web development
-- 🤝 **Collaboration** - Working with teams to build amazing projects
+### 💻 **Frontend Magic** 
+Creating pixel-perfect, kawaii interfaces that make users smile! ✨
+
+### 🎨 **UI/UX Enchantment** 
+Designing user experiences that feel like a warm hug 🤗
+
+### 🐍 **Python Sorcery** 
+Writing clean, elegant code that even other programmers find cute! 
+
+### 📊 **Data Science Adventures** 
+Turning boring numbers into beautiful, meaningful stories 📈
+
+### 👩‍🏫 **Teaching & Training Dreams** 
+Making complex concepts as easy as playing your favorite game! 🎮
+
+### 🎓 **Academic Aspirations** 
+Future professor who'll make CS classes the highlight of students' day! 
 
 <br clear="right"/>
 
@@ -131,39 +190,33 @@ me.say_hi()
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate!
+## 🎓 Academic & Teaching Journey 🎓
 
-I'm always excited to work on new projects and meet fellow developers! 
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariateodorapopescu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamelsapop)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mariateodorapopescu3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/popescumariateodora)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/mariateodorapopescu7095)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sciencepc)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mariateodorapopescu)
+### 📚 Current Academic Status
+- 🏫 **4th Year CS Student** at POLITEHNICA Bucharest
+- 📖 **Bachelor's Thesis** in progress
+- 🌟 **Teaching Assistant** aspirations
+- 👩‍🏫 **Future Professor** goals
 
-### 📧 Reach me at: [popescumariateodora@yahoo.com](mailto:popescumariateodora@yahoo.com)
+</td>
+<td align="center" width="50%">
 
-</div>
+### 🎯 Teaching & Training Goals
+- 💡 **Make coding fun** and accessible
+- 🎮 **Gamify learning** experiences  
+- 🌍 **Inspire future developers**
+- 📝 **Create educational content**
 
----
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-## 💭 Daily Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/mariateodorapopescu/mariateodorapopescu/output/github-contribution-grid-snake.svg" />
+### 🌟 Teaching Philosophy
+> *"The best way to learn is to teach, and the best way to teach is to make it feel like play!"* 🎮
 
 </div>
 
@@ -171,12 +224,110 @@ I'm always excited to work on new projects and meet fellow developers!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+## 🎮 Pixel Art Contribution Snake 🎮
 
-### ⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐
+<img src="https://raw.githubusercontent.com/mariateodorapopescu/mariateodorapopescu/output/github-contribution-grid-snake-dark.svg" />
 
-**Thanks for visiting my profile! Let's create something incredible together! 🚀**
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=mariateodorapopescu&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
+---
+
+<div align="center">
+
+## 🌸 Connect with Your Future Tech Sensei! 🌸
+
+I'm always excited to collaborate, teach, learn, and create magical experiences together! 💖
+
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C71585)](https://linkedin.com/in/mariateodorapopescu)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-FFB6C1?style=for-the-badge&logo=twitter&logoColor=black&labelColor=FF1493))](https://twitter.com/iamelsapop)
+[![Facebook](https://img.shields.io/badge/👥_Facebook-DDA0DD?style=for-the-badge&logo=facebook&logoColor=white&labelColor=9370DB)](https://fb.com/mariateodorapopescu3)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C71585)](https://instagram.com/popescumariateodora)
+[![YouTube](https://img.shields.io/badge/🎬_YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white&labelColor=C71585)](https://www.youtube.com/c/mariateodorapopescu7095)
+[![Dribbble](https://img.shields.io/badge/🎨_Dribbble-FFB6C1?style=for-the-badge&logo=dribbble&logoColor=black&labelColor=FF1493)](https://dribbble.com/sciencepc)
+[![CodePen](https://img.shields.io/badge/✨_CodePen-DDA0DD?style=for-the-badge&logo=codepen&logoColor=white&labelColor=9370DB)](https://codepen.io/mariateodorapopescu)
+
+### 💌 Send me a kawaii message: [popescumariateodora@yahoo.com](mailto:popescumariateodora@yahoo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Looking for Collaboration! 🎯
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌟 **Teaching Projects**
+- Educational content creation
+- Coding tutorials & guides  
+- Workshop planning
+- Mentoring programs
+
+</td>
+<td align="center" width="33%">
+
+### 💻 **Development Projects**
+- Frontend applications
+- Python projects
+- Data visualization
+- Web technologies
+
+</td>
+<td align="center" width="33%">
+
+### 🎨 **Creative Projects**
+- UI/UX design
+- Kawaii interfaces
+- Gaming-inspired UIs
+- Interactive experiences
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Daily Kawaii Code Wisdom 💭
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 Fun Stats & Easter Eggs 🎮
+
+<details>
+<summary>🌟 Click here for secret kawaii stats! 🌟</summary>
+
+```
+🍕 Lines of code written: Over 9000! 
+☕ Cups of coffee consumed: Countless...
+🎨 UI designs created: Making the world prettier, one pixel at a time
+📚 Students I want to inspire: All of them! 
+🌙 Late night coding sessions: Too many to count
+💖 Love for technology: Immeasurable! 
+```
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
+
+### ✨ *"In a world full of code, be the kawaii exception!"* ✨
+
+**Thanks for visiting my magical corner of GitHub! Let's create something incredibly cute and powerful together! 🚀💖**
+
+<img src="https://komarev.com/ghpvc/?username=mariateodorapopescu&label=👀+Kawaii+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+
+### 🌸 Remember: You're not just a programmer, you're a digital artist! 🌸
 
 </div>
