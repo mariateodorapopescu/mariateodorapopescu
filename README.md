@@ -3,7 +3,7 @@
 # ✨Hello, there! =D ✨
 ### 🌸 *Aspiring web dev with a flavor of data analysis* 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Python+Learner+%F0%9F%90%8D;Future+Data+Scientist+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Python+Learner+%F0%9F%90%8D" alt="Typing SVG" />
 
 ### 💫 *"Passionate about creating beautiful code and meaningful experiences"* 💫
 
@@ -222,7 +222,7 @@ Future trainer who'll make CS classes the highlight of students' day!
 
 ## 🎮 Pixel Art Contribution Snake 🎮
 
-<img src="https://raw.githubusercontent.com/mariateodorapopescu/mariateodorapopescu/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/mariateodorapopescu/mariateodorapopescu/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -316,7 +316,7 @@ I'm always excited to work on new projects and meet fellow developers! 🤝
 
 **Thanks for visiting my profile! Let's create something incredible together! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=mariateodorapopescu&label=👀+Kawaii+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mariateodorapopescu&label=👀+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 
 ### 🌸 Remember: You're not just a programmer, you're a digital artist! 🌸
 
